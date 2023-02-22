@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "eslint-plugin-react-hooks": "^4.3.0"
+  },
+  "dependencies": {
+    "sanity": "^2.33.2"
   }
 }

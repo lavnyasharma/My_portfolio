@@ -5,7 +5,7 @@
 }
 
 .app__skills-container {
-  width: 80%;
+  width: 100%;
   margin-top: 3rem;
 
   display: flex;
@@ -102,6 +102,8 @@
   justify-content: flex-start;
   align-items: flex-start;
   margin: 1rem 0;
+ 
+  margin-right: 15rem;
 }
 
 .app__skills-exp-works {

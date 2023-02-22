@@ -99,7 +99,7 @@ const Work = () => {
 
               <div className="app__work-tag app__flex">❤️
               
-             { works.tag ? <p className="p-text">{works.tag[0]}</p> : null }
+             { works.tag ? <p className="p-text">{works.tag[1]}</p> : null }
               </div>
             </div>
           </div>
